@@ -1,6 +1,6 @@
 # aquaculture-automation-using-LoRa
 This MUP (Minimum Usable Prototype) was built at Forge as a part of an incubation program called "PROTOSEM"
-SMART MAINTENANCE SYSTEM FOR SHRIMP AND OPRAWN FARMS:
+SMART MAINTENANCE SYSTEM FOR SHRIMP AND PRAWN FARMS:
 
 To monitor the pond quality parameters such as temperature,pH,dissolved oxygen and alkalinity content.We used LoRa transimission mode for sending the data.
 We chose RAK811 module
